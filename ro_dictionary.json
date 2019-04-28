@@ -1,0 +1,506 @@
+[{
+"ID":1,
+"Word":"cand",
+"Speech":"adverb",
+"Lemma":"",
+"Kind":"cand",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":2,
+"Word":"ursii",
+"Speech":"noun",
+"Lemma":"count",
+"Kind":"urs",
+"Type":"simple",
+"Number":"plural",
+"Article":"definite",
+"Tense":"",
+"Gender":"m",
+"Person":"3"
+},
+
+{
+"ID":3,
+"Word":"fugit",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"fugi",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":4,
+"Word":"camera",
+"Speech":"noun",
+"Lemma":"count",
+"Kind":"camera",
+"Type":"simplu",
+"Number":"singular",
+"Article":"definite",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":5,
+"Word":"acea",
+"Speech":"demonstrative",
+"Lemma":"",
+"Kind":"acea",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":6,
+"Word":"dupa-amiaza",
+"Speech":"substantiv",
+"Lemma":"count",
+"Kind":"dupa-amiaza",
+"Type":"compound",
+"Number":"singular",
+"Article":"indefinite",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":7,
+"Word":"ei",
+"Speech":"pronume",
+"Lemma":"",
+"Kind":"ei",
+"Type":"personal",
+"Number":"plural",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":8,
+"Word":"deschis",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"deschide",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":9,
+"Word":"Plete-aurii",
+"Speech":"noun",
+"Lemma":"proper",
+"Kind":"Plete-aurii",
+"Type":"compound",
+"Number":"singular",
+"Article":"none",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":10,
+"Word":"Chiar atunci",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":11,
+"Word":"ea",
+"Speech":"pronoun",
+"Lemma":"",
+"Kind":"ea",
+"Type":"personal",
+"Number":"singular",
+"Article":"",
+"Tense":"",
+"Gender":"f",
+"Person":"2"
+},
+
+{
+"ID":12,
+"Word":"urlat",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"urla",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":13,
+"Word":"nu",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"nu",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":14,
+"Word":"respira",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"respira",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"progressive",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":15,
+"Word":"in josul scarilor",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"in josul scarilor",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":16,
+"Word":"mort",
+"Speech":"adjective",
+"Lemma":"",
+"Kind":"dead",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"",
+"Gender":"m",
+"Person":""
+},
+
+{
+"ID":16,
+"Word":"moarta",
+"Speech":"adjective",
+"Lemma":"",
+"Kind":"dead",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":17,
+"Word":"vorbit",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"talk",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":18,
+"Word":"la",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"la",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":19,
+"Word":"ea",
+"Speech":"possessive",
+"Lemma":"",
+"Kind":"ea",
+"Type":"",
+"Number":"singularr",
+"Article":"",
+"Tense":"",
+"Gender":"f",
+"Person":"2"
+},
+
+{
+"ID":20,
+"Word":"vazut",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"vedea",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":21,
+"Word":"si",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"si",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":22,
+"Word":"inceput",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"incepe",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":23,
+"Word":"trezit",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"trezi",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"progressive",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":24,
+"Word":"in",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"in",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":25,
+"Word":"din",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"din",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":26,
+"Word":"ajutat",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"ajuta",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":27,
+"Word":"ramas",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"ramane",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+  {
+    "ID":28,
+    "Word":"usa",
+    "Speech":"noun",
+    "Lemma":"count",
+    "Kind":"usa",
+    "Type":"simple",
+    "Number":"singular",
+    "Article":"definite",
+    "Tense":"",
+    "Gender":"f",
+    "Person":""
+  },
+
+  {
+    "ID":29,
+    "Word":"tresarit",
+    "Speech":"expression",
+    "Lemma":"",
+    "Kind":"tresari",
+    "Type":"",
+    "Number":"singular",
+    "Article":"",
+    "Tense":"past",
+    "Gender":"",
+    "Person":"3"
+  },
+
+  {
+    "ID":30,
+    "Word":"padure",
+    "Speech":"noun",
+    "Lemma":"count",
+    "Kind":"padure",
+    "Type":"simple",
+    "Number":"singular",
+    "Article":"definite",
+    "Tense":"",
+    "Gender":"f",
+    "Person":"3"
+  },
+
+  {
+    "ID":31,
+    "Word":"Ea",
+    "Speech":"pronoun",
+    "Lemma":"",
+    "Kind":"ea",
+    "Type":"personal",
+    "Number":"singular",
+    "Article":"",
+    "Tense":"",
+    "Gender":"f",
+    "Person":"3"
+  },
+
+  {
+    "ID":32,
+    "Word":"mers",
+    "Speech":"verb",
+    "Lemma":"1",
+    "Kind":"merge",
+    "Type":"",
+    "Number":"singular",
+    "Article":"",
+    "Tense":"past",
+    "Gender":"",
+    "Person":"3",
+    "Subject":"1"
+  },
+
+  {
+    "ID":33,
+    "Word":"fereastra",
+    "Speech":"noun",
+    "Lemma":"count",
+    "Kind":"fereastra",
+    "Type":"simple",
+    "Number":"singular",
+    "Article":"definite",
+    "Tense":"past",
+    "Gender":"f",
+    "Person":"3",
+    "Subject":"1"
+  },
+
+  {
+    "ID":34,
+    "Word":"nu privea inapoi",
+    "Speech":"expression",
+    "Lemma":"",
+    "Kind":"nu privea inapoi",
+    "Type":"",
+    "Number":"",
+    "Article":"",
+    "Tense":"",
+    "Gender":"",
+    "Person":""
+  },
+
+  {
+    "ID":35,
+    "Word":"\n",
+    "Speech":"",
+    "Lemma":"",
+    "Kind":"",
+    "Type":"",
+    "Number":"",
+    "Article":"",
+    "Tense":"",
+    "Gender":"",
+    "Person":""
+  }
+]

@@ -1,0 +1,491 @@
+[{
+"ID":1,
+"Word":"when",
+"Speech":"adverb",
+"Lemma":"",
+"Kind":"when",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":2,
+"Word":"bears",
+"Speech":"noun",
+"Lemma":"count",
+"Kind":"bear",
+"Type":"simple",
+"Number":"plural",
+"Article":"definite",
+"Tense":"",
+"Gender":"m",
+"Person":"3"
+},
+
+{
+"ID":3,
+"Word":"ran",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"run",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":4,
+"Word":"room",
+"Speech":"noun",
+"Lemma":"count",
+"Kind":"room",
+"Type":"simple",
+"Number":"singular",
+"Article":"definite",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":5,
+"Word":"that",
+"Speech":"demonstrative",
+"Lemma":"",
+"Kind":"that",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":6,
+"Word":"evening",
+"Speech":"noun",
+"Lemma":"count",
+"Kind":"evening",
+"Type":"simple",
+"Number":"singular",
+"Article":"none",
+"Tense":"",
+"Gender":"f",
+"Person":""
+},
+
+{
+"ID":7,
+"Word":"they",
+"Speech":"pronoun",
+"Lemma":"",
+"Kind":"they",
+"Type":"personal",
+"Number":"plural",
+"Article":"",
+"Tense":"",
+"Gender":"m",
+"Person":"3"
+},
+
+{
+"ID":8,
+"Word":"opened",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"open",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":9,
+"Word":"Goldilocks",
+"Speech":"noun",
+"Lemma":"proper",
+"Kind":"Goldilocks",
+"Type":"compound",
+"Number":"singular",
+"Article":"none",
+"Tense":"",
+"Gender":"f",
+"Person":"3"
+},
+
+{
+"ID":10,
+"Word":"Just then",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":11,
+"Word":"she",
+"Speech":"pronoun",
+"Lemma":"",
+"Kind":"she",
+"Type":"personal",
+"Number":"singular",
+"Article":"",
+"Tense":"",
+"Gender":"f",
+"Person":"3"
+},
+
+{
+"ID":12,
+"Word":"screamed",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"scream",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":13,
+"Word":"not",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"not",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":14,
+"Word":"breathing",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"breath",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"progressive",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":15,
+"Word":"down the stairs",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"down the stairs",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":16,
+"Word":"dead",
+"Speech":"adjective",
+"Lemma":"",
+"Kind":"dead",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":17,
+"Word":"talked",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"talk",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":18,
+"Word":"to",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"to",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":19,
+"Word":"her",
+"Speech":"possessive",
+"Lemma":"",
+"Kind":"her",
+"Type":"",
+"Number":"singluar",
+"Article":"",
+"Tense":"",
+"Gender":"f",
+"Person":"2"
+},
+
+{
+"ID":20,
+"Word":"saw",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"see",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":21,
+"Word":"and",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"and",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":22,
+"Word":"started",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"start",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":23,
+"Word":"woke up",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"wake up",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past perfect",
+"Gender":"",
+"Person":"3"
+},
+
+{
+"ID":24,
+"Word":"into",
+"Speech":"preposition",
+"Lemma":"",
+"Kind":"into",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":25,
+"Word":"out of",
+"Speech":"expression",
+"Lemma":"",
+"Kind":"out of",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":26,
+"Word":"helped",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"help",
+"Type":"",
+"Number":"",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":""
+},
+
+{
+"ID":27,
+"Word":"remained",
+"Speech":"verb",
+"Lemma":"",
+"Kind":"remain",
+"Type":"",
+"Number":"singular",
+"Article":"",
+"Tense":"past",
+"Gender":"",
+"Person":"3"
+},
+  {
+    "ID":28,
+    "Word":"door",
+    "Speech":"noun",
+    "Lemma":"count",
+    "Kind":"door",
+    "Type":"simple",
+    "Number":"singular",
+    "Article":"definite",
+    "Tense":"",
+    "Gender":"f",
+    "Person":""
+  },
+  {
+    "ID":29,
+    "Word":"jumped up",
+    "Speech":"expression",
+    "Lemma":"",
+    "Kind":"jump up",
+    "Type":"",
+    "Number":"singular",
+    "Article":"",
+    "Tense":"past",
+    "Gender":"",
+    "Person":""
+  },
+
+  {
+    "ID":30,
+    "Word":"forest",
+    "Speech":"noun",
+    "Lemma":"count",
+    "Kind":"forest",
+    "Type":"simple",
+    "Number":"singular",
+    "Article":"definite",
+    "Tense":"",
+    "Gender":"f",
+    "Person":"3"
+  },
+
+  {
+    "ID":31,
+    "Word":"She",
+    "Speech":"pronoun",
+    "Lemma":"",
+    "Kind":"she",
+    "Type":"personal",
+    "Number":"singular",
+    "Article":"",
+    "Tense":"",
+    "Gender":"f",
+    "Person":"3"
+  },
+
+  {
+    "ID":32,
+    "Word":"went",
+    "Speech":"verb",
+    "Lemma":"1",
+    "Kind":"go",
+    "Type":"",
+    "Number":"",
+    "Article":"",
+    "Tense":"past",
+    "Gender":"",
+    "Person":"",
+    "Subject":"1"
+  },
+
+  {
+    "ID":33,
+    "Word":"window",
+    "Speech":"noun",
+    "Lemma":"count",
+    "Kind":"window",
+    "Type":"simple",
+    "Number":"singular",
+    "Article":"definite",
+    "Tense":"past",
+    "Gender":"f",
+    "Person":"3",
+    "Subject":"1"
+  },
+  {
+    "ID":34,
+    "Word":"was not looking back",
+    "Speech":"expression",
+    "Lemma":"",
+    "Kind":"was not looking back",
+    "Type":"",
+    "Number":"",
+    "Article":"",
+    "Tense":"",
+    "Gender":"",
+    "Person":""
+  },
+  {
+    "ID":35,
+    "Word":"\n",
+    "Speech":"",
+    "Lemma":"",
+    "Kind":"",
+    "Type":"",
+    "Number":"",
+    "Article":"",
+    "Tense":"",
+    "Gender":"",
+    "Person":""
+  }
+
+
+
+]
